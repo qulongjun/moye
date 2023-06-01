@@ -90,4 +90,4 @@
 
 ## 🍖 License
 
-[MIT](LICENSE.md) © jonnyqu
+[MIT](LICENSE.md) © 莫邪
